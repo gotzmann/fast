@@ -1,7 +1,5 @@
 ![](./logo.png?raw=true)
 
-## FastTensors
-
 Pragmatic framework for those who want something like GGML or ONNX in pure Go.
 
 Aimed to be 100% compatible with GGML and GGUF, as well support ONNX and safetensors models.
